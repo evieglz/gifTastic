@@ -1,10 +1,10 @@
 body {
-  font: 18px arial, sans-serif;
+  font: 16px arial, sans-serif;
   background: #eee;
 }
 
 #animals {
-  width: 70%;
+  width: 65%;
 }
 
 .animal-item {
